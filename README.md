@@ -72,11 +72,6 @@ This project honed my skills in:
 - Translating technical findings into business risk language.
 - Real-world incident detection and response simulation.
 
----
-
-## 📚 About
-
-A cybersecurity capstone project by a former Banking and Finance professional pivoting into cybersecurity to build safer networks and protect digital assets in an evolving threat landscape.
 
 ---
 
