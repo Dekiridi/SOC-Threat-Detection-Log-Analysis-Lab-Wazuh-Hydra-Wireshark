@@ -42,7 +42,7 @@ This repository contains artifacts from a hands-on cybersecurity capstone projec
 
 
 ## let's connect
-🔗 [LinkedIn](https://linkedin.com/in/kiridi-david)
+🔗 [LinkedIn](https://www.linkedin.com/posts/kiridi-david_networksecurity-cybersecurity-wireshark-activity-7324402770856271872-VmMx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
 📧 [Email](mailto:kirididavid@gmail.com)
 
 ---
